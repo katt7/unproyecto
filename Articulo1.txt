@@ -1,0 +1,8 @@
+public class Articulo1{
+	private int id;
+	private String descripcion;
+
+	public Articulo2(){
+
+	}
+	}
